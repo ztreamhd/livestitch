@@ -1,1 +1,10 @@
 #EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=15000,AVERAGE-BANDWIDTH=4000,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aac_stereo"
+https://ikomg3.s.llnwi.net/test123/stream_7.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac_stereo",LANGUAGE="eng",NAME="English",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ikomg3.s.llnwi.net/test123/stream_eng.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac_stereo",LANGUAGE="kaz",NAME="Қазақ",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ikomg3.s.llnwi.net/test123/stream_kaz.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac_stereo",LANGUAGE="kiz",NAME="кыргыз",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ikomg3.s.llnwi.net/test123/stream_kiz.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac_stereo",LANGUAGE="uzb",NAME="Ўзбек",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ikomg3.s.llnwi.net/test123/stream_uzb.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac_stereo",LANGUAGE="rus",NAME="Русский",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ikomg3.s.llnwi.net/test123/stream_rus.m3u8"
