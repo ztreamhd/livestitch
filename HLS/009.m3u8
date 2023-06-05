@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5365,AVERAGE-BANDWIDTH=5365,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio_lit"
+https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_lit",LANGUAGE="lit",NAME="Lietuvių kalba",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://stream-live.lrt.lt/lituanica/stream04/streamPlaylist.m3u8"
